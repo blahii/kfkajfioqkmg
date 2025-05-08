@@ -1,0 +1,2 @@
+MAPBOX_API_KEY = pk.eyJ1IjoiYWkzMTlveiIsImEiOiJja214NWpzcGYwbG1mMnBxaWwxZzh0emRpIn0.UiZp_-wyWD2dRRdLh_qfEQ
+MAPBOX_STYLE_URL = mapbox://styles/ai319oz/cmafk5vql00vs01r4gu63b96v
